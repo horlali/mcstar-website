@@ -1,0 +1,155 @@
+{
+  "Header": {
+    "title": "McStar Limited",
+    "paragraph": "Our projects provide safe, potable water to areas of greatest need, and support the delivery of the adopted UN Sustainable Development Goals."
+  },
+  "About": {
+    "paragraph": "MCSTAR LIMITED is a Ghanaian business that focuses on water access solutions to challenging environments through sustainable social impact projects encompassing Government-to-Government bilateral compliance structures and fully funded blended solutions. Our projects provide safe, potable water to areas of greatest need, and support the delivery of the adopted UN Sustainable Development Goals.",
+    "Why": [
+      "We deploy best technology in our hydrogeological survey",
+      "Quality service delivery"
+    ],
+    "Why2": [
+      "We deliver on our promise",
+      "Our rates are affordable"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-engine",
+      "name": "Hydro-Geological Survey",
+      "text": "We rely on modern technology to determine the distribution and movement of groundwater in the soil and rocks of the Earth’s crust."
+    },
+    {
+      "icon": "fa fa-swimming-pool",
+      "name": "Borehole Construction",
+      "text": "Our engineers are experts in drilling the ground for the extraction of natural water. We work on constructing boreholes for but domestic and community use."
+    },
+    {
+      "icon": "fa fa-swimming-pool",
+      "name": "Swimming Pool Construction",
+      "text": "We provide service swimming pool construction services. We also do remodeling and renovation of swimming pools."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "I’m impressed with the quality of service and deployment of the RIVER G technology used in the hydrogeological survey. Helping to locate fresh water and drilling too on my land was a great relief.",
+      "name": "Mr. Richard"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "We are grateful to MCSTAR LIMITED for the boreholes they drilled in our school.",
+      "name": "Akim Swedru Senior Secondary School"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Called on the team and they were at my place the next day. Was amazed with the amount of water that was pumped out of the well after the drilling was done.",
+      "name": "Emmanuel"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "The deployment of the latest River G device really helped the agency in cutting down cost on its hydrogeological surveys while still helping the agency identify great locations to drill boreholes for our town water systems.",
+      "name": "Community Water And Sanitation Agency (Nalerigu)"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "I was told the underground water on my farm was salty and I was worried. Contacted Mcstar limited and after their siting works, they told me they located fresh water on my farm. Thanks to the team.",
+      "name": "Mr. Asamoah"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Clement Boateng",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Abigail Boateng",
+      "job": "Managing Director"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Fredrick Gyan",
+      "job": "Operation Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Circle, In Front of City Lights, Accra Ghana ",
+    "phone": "+233 5565 65692/ +233 5528 36876/ +233 2077 36891",
+    "email": "mcstarlimited@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
