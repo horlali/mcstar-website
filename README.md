@@ -3,7 +3,7 @@
 ## Description
 This is a react landing page for McStar Company Limited
 
-## Make it Yours!
+## How to Customize
 ### 1. Preps
 You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc.
 
