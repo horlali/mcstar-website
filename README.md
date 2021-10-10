@@ -1,4 +1,4 @@
-# React JS Landing Page Template
+# McStar Company Limited [React Landing Page]
 
 ## Description
 This is a react landing page for McStar Company Limited
